@@ -13,7 +13,7 @@
 ---
 
 ## Building Database<br>
-Built data base in pgAdmin using csv data 
+Built database in pgAdmin using csv data 
    <pre><code>CREATE TABLE colors(
     id int NOT NULL PRIMARY KEY,
     name varchar(50),
@@ -30,14 +30,14 @@ Built data base in pgAdmin using csv data
 ---
 
 ## Analysis<br>
-This data set is great for querying, and has some interesting potential for possible machine learning capabilities. 
-However on its own, it does provide some interesting insights on Lego and its progression. As the years have gone by, there 
-has been a consistent increase in the complexity of the sets and pieces releases. Both in the amount of pieces themselves, and the range of 
-colors. This database can also show off some of the rarer and intricate pieces, such as the powered pieces for specific sets.  
+This data set is great for querying and has some interesting potential for possible machine learning capabilities. 
+However on its own it does provide some interesting insights on Lego and its progression. As the years have gone by, there 
+has been a consistent increase in the complexity of the sets and pieces released, both in the number of pieces themselves and the range of 
+colors. This database can also show off some of the rarer and more intricate pieces, such as the powered pieces for specific sets.  
 
-One can also see the variety of different colors used in the different themes that sets belong to. With the Basic Set theme having the largest
-variety of colors to fit the with other sets. Then we have the Fairy-Tale theme second in the number of colors used letting us know that
+One can also see the variety of colors used in the different themes that sets belong to. The Basic Set theme has the largest
+variety of colors to fit with the other sets. Then we have the Fairy-Tale theme second in the number of colors used, letting us know that
 this is a very colorful theme.  
 
 Finally we can see a large boom in the number of sets being released in the late 80's as popularity and interest rise and new sets 
-and parts are released to meet demand. Culminating with 2014 having the largest amount of sets being release at a staggering 713 sets released that year.
+and parts are released to meet demand. 2014 having the largest amount of sets being release at a staggering 713 sets released that year.
